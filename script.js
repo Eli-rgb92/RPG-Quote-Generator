@@ -41,7 +41,24 @@ const challenges = [
     "Shadow Stalker – Orren Blacktrail defends explorers from a creature that only attacks in complete darkness.",
 ];
 
-const inspirations = [];
+const inspirations = [
+    "A village is not built with stone, but with stories shared beneath the stars.",
+    "Even the smallest lantern can guide a soul through the longest night.",
+    "To plant a seed is to believe in tomorrow’s laughter.",
+    "Courage is not the absence of fear—it’s the choice to build anyway.",
+    "The wind may change, but the heart of the home remains.",
+    "Kindness is the currency that never devalues in trade or time.",
+    "A roof shelters the body; a tale shelters the spirit.",
+    "The strongest walls are built from trust, not timber.",
+    "Below the surface lies not danger, but the truth we buried to survive.",
+    "Darkness reveals what daylight hides—your strength, your scars, your story.",
+    "Every echo is a memory waiting to be heard.",
+    "The deeper you go, the more you find yourself.",
+    "Crystals may light the way, but it’s your choices that shape the path.",
+    "In the silence of the deep, even a whisper becomes prophecy.",
+    "The cave does not test your strength—it reflects it.",
+    "To descend is not to fall, but to rise in understanding.",
+];
 
 // Random selection function
 function getRandomItem(array) {
