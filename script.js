@@ -22,7 +22,24 @@ const heroes = [
     "Orren Blacktrail  (former surface guard turned cave protector)",
     ];
 
-const challenges = [];
+const challenges = [
+    "A Storm-Damaged Granary – Branna Willowstep must rally villagers to salvage food before it spoils.",
+    "Trade Caravan Delay – Mira Sunveil negotiates with impatient merchants while calming worried townsfolk.",
+    "Strange Lights in the Sky – Eldon Farreach investigates celestial phenomena that disrupt sleep cycles.",
+    "Festival of Forgotten Songs – Kaelin Hearthsong must recover lost verses from cave dwellers to complete the ritual.",
+    "Sabotaged Tools – Thornel Clayroot uncovers a saboteur among the builders, risking the village’s expansion.",
+    "A Child’s Disappearance – Tova Grainwhistle leads a search party into the woods, guided only by dreams.",
+    "Ore Shortage – Rurik Stonehand must barter with cave miners for rare metals or risk halting production.",
+    "Spirit Uprising – Sylvi Emberlane must appease elemental spirits angered by surface expansion.",
+    "Echoing Voices – Venn Hollowstride follows mysterious echoes that lead to a hidden chamber… or a trap.",
+    "Crystal Fever – Drenna Shardwake must cure a team member afflicted by a glowing crystal’s influence.",
+    "Beast in the Vents – Fenrik Gloomroot tracks a cave beast disrupting airflow and threatening fungus crops.",
+    "Cave Collapse – Jorik Mossmantle organizes a rescue after a tunnel collapses during an expedition.",
+    "Ancient Puzzle Door – Lazra Echothorn deciphers a riddle that guards a forgotten vault.",
+    "Subterranean Treaty – Nyra Deepgleam negotiates peace between rival cave factions.",
+    "The Singing Pool – Iska Veilborn must resist the hypnotic pull of a magical underground lake.",
+    "Shadow Stalker – Orren Blacktrail defends explorers from a creature that only attacks in complete darkness.",
+];
 
 const inspirations = [];
 
